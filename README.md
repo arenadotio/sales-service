@@ -1,1 +1,1 @@
-# sales-servioce
+# sales-service
